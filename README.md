@@ -29,3 +29,10 @@ This repository demonstrates a tiny reproducible MLOps flow:
    ```bash
    curl -X POST "http://127.0.0.1:5000/predict" -H "Content-Type: application/json" -d '{"features":[5.1,3.5,1.4,0.2]}'
    ```
+
+<img width="1582" height="903" alt="image" src="https://github.com/user-attachments/assets/3b9343bb-46bd-4570-913d-41bd83f9fb73" />
+
+<img width="1903" height="983" alt="image" src="https://github.com/user-attachments/assets/6f704538-fc4b-4b18-bdbc-7873f2d7637f" />
+
+
+
